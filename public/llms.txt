@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://goalero-e36eac31.zappy5.app
+https://example.com
 גלו חנות חולצות כדורגל ישראל מובילה עם ג&#39;רזי כדורגל באיכות גבוהה. חוויית קנייה יוקרתית לחובבי כדורגל אמיתיים. הצטרפו למועדון האלופים עוד היום!
 
 ### אומנות
-https://goalero-e36eac31.zappy5.app/craftsmanship
+https://example.com/craftsmanship
 צללו לעומק מלאכת היד שמאחורי חולצות כדורגל באיכות גבוהה. כל תפר מספר סיפור של מצוינות. למה להסתפק בפחות כשאפשר ללבוש יצירת מופת?
 
 ### תרבות כדורגל
-https://goalero-e36eac31.zappy5.app/football-culture
+https://example.com/football-culture
 התחברו ללב הפועם של היציע עם חולצות קבוצות כדורגל אירופאיות שמספרות סיפור. לא רק חולצה – זו זהות. היכנסו למגרש התרבות שלנו וגלו את הרוח.
 
 ### שאלות נפוצות
-https://goalero-e36eac31.zappy5.app/faq
+https://example.com/faq
 יש לכם שאלות על חולצות כדורגל איכותיות לקנייה? ריכזנו את כל מה שצריך לדעת על מידות, משלוחים וטיפול בג&#39;רזי. קבלו החלטה חכמה עוד לפני הקנייה.
 
 ### צור קשר
-https://goalero-e36eac31.zappy5.app/contact
+https://example.com/contact
 מחפשים מתנה לאוהד כדורגל או צריכים עזרה בבחירת ג&#39;רזי? צוות המומחים שלנו כאן בשבילכם. השאירו פרטים ונדאג שתצאו עם החולצה המושלמת ביד.
 
 ### Products
-https://goalero-e36eac31.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Goalero
 
 ### Cart
-https://goalero-e36eac31.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://goalero-e36eac31.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://goalero-e36eac31.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://goalero-e36eac31.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://goalero-e36eac31.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://goalero-e36eac31.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Goalero
 
 ### Category
-https://goalero-e36eac31.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Goalero
 
 ### תודה - Goalero
-https://goalero-e36eac31.zappy5.app/thank-you
+https://example.com/thank-you
 Goalero - תודה - Goalero
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://goalero-e36eac31.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://goalero-e36eac31.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://goalero-e36eac31.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ E-commerce / Sports Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://goalero-e36eac31.zappy5.app/sitemap.xml
-- Robots: https://goalero-e36eac31.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://goalero-e36eac31.zappy5.app/llms-full.txt
-- Products (JSON): https://goalero-e36eac31.zappy5.app/products.json
-- Products (Google Merchant RSS): https://goalero-e36eac31.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

@@ -2,13 +2,13 @@
 
 A premium online store specializing in high-quality football jerseys. The brand focuses on quality craftsmanship and authentic football culture, targeting football fans who value premium apparel. The store aims to deliver an elevated shopping experience for jersey enthusiasts.
 
-Source: https://goalero-e36eac31.zappy5.app
+Source: https://example.com
 
 ---
 
 ## התחדשו בחולצות כדורגל איכותיות לקנייה — Goalero
 
-URL: https://goalero-e36eac31.zappy5.app
+URL: https://example.com
 Description: גלו חנות חולצות כדורגל ישראל מובילה עם ג&#39;רזי כדורגל באיכות גבוהה. חוויית קנייה יוקרתית לחובבי כדורגל אמיתיים. הצטרפו למועדון האלופים עוד היום!
 
 התחדשו בחולצות כדורגל איכותיות לקנייה — Goalero
@@ -543,7 +543,7 @@ Description: גלו חנות חולצות כדורגל ישראל מובילה �
 
 ## סודות האומנות שמאחורי חולצות כדורגל באיכות גבוהה — Goalero
 
-URL: https://goalero-e36eac31.zappy5.app/craftsmanship
+URL: https://example.com/craftsmanship
 Description: צללו לעומק מלאכת היד שמאחורי חולצות כדורגל באיכות גבוהה. כל תפר מספר סיפור של מצוינות. למה להסתפק בפחות כשאפשר ללבוש יצירת מופת?
 
 סודות האומנות שמאחורי חולצות כדורגל באיכות גבוהה — Goalero
@@ -915,7 +915,7 @@ Description: צללו לעומק מלאכת היד שמאחורי חולצות �
 
 ## תרבות כדורגל אמיתית פוגשת חולצות קבוצות אירופאיות — Goalero
 
-URL: https://goalero-e36eac31.zappy5.app/football-culture
+URL: https://example.com/football-culture
 Description: התחברו ללב הפועם של היציע עם חולצות קבוצות כדורגל אירופאיות שמספרות סיפור. לא רק חולצה – זו זהות. היכנסו למגרש התרבות שלנו וגלו את הרוח.
 
 תרבות כדורגל אמיתית פוגשת חולצות קבוצות אירופאיות — Goalero
@@ -1295,7 +1295,7 @@ Description: התחברו ללב הפועם של היציע עם חולצות ק
 
 ## כל התשובות על חולצות כדורגל איכותיות לקנייה — Goalero
 
-URL: https://goalero-e36eac31.zappy5.app/faq
+URL: https://example.com/faq
 Description: יש לכם שאלות על חולצות כדורגל איכותיות לקנייה? ריכזנו את כל מה שצריך לדעת על מידות, משלוחים וטיפול בג&#39;רזי. קבלו החלטה חכמה עוד לפני הקנייה.
 
 כל התשובות על חולצות כדורגל איכותיות לקנייה — Goalero
@@ -1660,7 +1660,7 @@ Description: יש לכם שאלות על חולצות כדורגל איכותי�
 
 ## דברו איתנו על המתנה המושלמת לאוהד כדורגל — Goalero
 
-URL: https://goalero-e36eac31.zappy5.app/contact
+URL: https://example.com/contact
 Description: מחפשים מתנה לאוהד כדורגל או צריכים עזרה בבחירת ג&#39;רזי? צוות המומחים שלנו כאן בשבילכם. השאירו פרטים ונדאג שתצאו עם החולצה המושלמת ביד.
 
 דברו איתנו על המתנה המושלמת לאוהד כדורגל — Goalero
@@ -2059,7 +2059,7 @@ Description: מחפשים מתנה לאוהד כדורגל או צריכים ע�
 
 ## מוצרים
 
-URL: https://goalero-e36eac31.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Goalero
 
 מוצרים - Goalero
@@ -2469,7 +2469,7 @@ Description: המוצרים שלנו - Goalero
 
 ## עגלת קניות
 
-URL: https://goalero-e36eac31.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Goalero
@@ -2721,7 +2721,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://goalero-e36eac31.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Goalero
@@ -3159,7 +3159,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://goalero-e36eac31.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Goalero
@@ -3418,7 +3418,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://goalero-e36eac31.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Goalero
@@ -3832,7 +3832,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://goalero-e36eac31.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Goalero
@@ -4108,7 +4108,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://goalero-e36eac31.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Goalero
@@ -4413,7 +4413,7 @@ Goalero מחויבת לשביעות רצון לקוחותיה. מדיניות ז
 
 ## פרטי המוצר
 
-URL: https://goalero-e36eac31.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Goalero
 
 פרטי המוצר - Goalero
@@ -4667,7 +4667,7 @@ Description: פרטי המוצר - Goalero
 
 ## מוצרים
 
-URL: https://goalero-e36eac31.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Goalero
 
 מוצרים - Goalero
@@ -4945,7 +4945,7 @@ Description: מוצרים - Goalero
 
 ## מדיניות פרטיות
 
-URL: https://goalero-e36eac31.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5225,7 +5225,7 @@ Goalero ("החברה", "אנו", "שלנו") מחויבת להגן על פרטי
 
 ## הצהרת נגישות
 
-URL: https://goalero-e36eac31.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5514,7 +5514,7 @@ Goalero מחויבת להנגיש את השירותים לכלל הציבור. �
 
 ## תנאי שימוש
 
-URL: https://goalero-e36eac31.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5822,7 +5822,7 @@ Goalero מספקת E-commerce / Sports Apparel דרך האתר. השירותים
 
 ## תודה - Goalero
 
-URL: https://goalero-e36eac31.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: Goalero - תודה - Goalero
 
 תודה - Goalero
